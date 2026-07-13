@@ -17,10 +17,14 @@ No GitHub, estou a documentar a minha evolução através de exercícios, script
 
 ###
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=kelsonteixeir&show_icons=true&theme=merko&hide_border=false" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelsonteixeir&layout=compact&theme=merko&hide_border=false" alt="Top languages" />
-</div>
+<h3 align="left">Em desenvolvimento</h3>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-em%20estudo-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python badge" />
+  <img src="https://img.shields.io/badge/Linux-em%20estudo-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux badge" />
+  <img src="https://img.shields.io/badge/Cybersecurity-em%20transição-2E8B57?style=for-the-badge" alt="Cybersecurity badge" />
+</p>
+
 
 ###
 
