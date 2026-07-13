@@ -18,13 +18,13 @@ No GitHub, estou a documentar a minha evolução através de exercícios, script
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kelsonteixeir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=merko&locale=pt-br&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kelsonteixeir&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=kelsonteixeir&show_icons=true&theme=merko&hide_border=false" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelsonteixeir&layout=compact&theme=merko&hide_border=false" alt="Top languages" />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDg0dWJ0YzhwMnRzNWIxNDI4cDl4Z25vY2RvbzRmZzFtaGtzMGdmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TgyJebqyMtPrOxiPdk/giphy.gif" />
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDg0dWJ0YzhwMnRzNWIxNDI4cDl4Z25vY2RvbzRmZzFtaGtzMGdmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TgyJebqyMtPrOxiPdk/giphy.gif" alt="coding gif" />
 
 ###
 
@@ -59,6 +59,18 @@ No GitHub, estou a documentar a minha evolução através de exercícios, script
 
 ###
 
+<h3 align="left">Projetos e estudos atuais</h3>
+
+<p align="left">
+📌 Scripts em Python aplicados à cibersegurança<br>
+📌 Validação de passwords e controlo de acessos<br>
+📌 Análise de logs e eventos de login<br>
+📌 Normalização e filtragem de logs<br>
+📌 Exercícios práticos com listas, dicionários, ciclos e funções<br>
+</p>
+
+###
+
 <h3 align="left">Contactos</h3>
 
 <div align="left">
@@ -79,7 +91,7 @@ No GitHub, estou a documentar a minha evolução através de exercícios, script
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/kelsonteixeir/count.svg?" />
+  <img src="https://komarev.com/ghpvc/?username=kelsonteixeir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 ###
